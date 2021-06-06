@@ -3,7 +3,7 @@ from os import system as s
 import json
 
 player = "mpv"
-with open("n_list.json", 'r') as l:
+with open("n_list.json") as l:
     ip_tv = json.load(l)
 jml_channel = (len(ip_tv["tv"]))
 channel = []
@@ -29,7 +29,7 @@ Streaming TV menggunakan IPTV.
         print("List Channel :")
         for i, key in enumerate(channel):
             if (i + 1) % 3:
-                print(i, "=>", '{:20}'.format(key), end='\t')
+                print(i, "=>", '{:15}'.format(key), end='\t')
             else:
                 print(i, "=>", key, end='\n')
         p_tv = int(input(f"\nPilih Channel 0 - {jml_channel-1} > "))
