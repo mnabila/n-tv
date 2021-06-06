@@ -29,9 +29,9 @@ Streaming TV menggunakan IPTV.
         print("List Channel :")
         for i, key in enumerate(channel):
             if (i + 1) % 3:
-                print('{:20}'.format(key), end='\t')
+                print(i, "=>", '{:20}'.format(key), end='\t')
             else:
-                print(key, end='\n')
+                print(i, "=>", key, end='\n')
         p_tv = int(input(f"\nPilih Channel 0 - {jml_channel-1} > "))
 
         c_tv = url[p_tv]

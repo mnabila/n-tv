@@ -1,51 +1,51 @@
 {
   "tv": [
     {
-      "channel": "[0] TVRI",
+      "channel": "TVRI",
       "url": "http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com"
     },
     {
-      "channel": "[1] RCTI",
+      "channel": "RCTI",
       "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8"
     },
     {
-      "channel": "[2] SCTV",
+      "channel": "SCTV",
       "url": "http://210.210.155.35/qwr9ew/s/s03/02.m3u8"
     },
     {
-      "channel": "[3] INDOSIAR",
+      "channel": "INDOSIAR",
       "url": "http://210.210.155.35/session/62c3f4aa-7aec-11ea-b162-c81f66f89318/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=d0cu4j7cnm&tkn=BEMV9570E7UC93I64J3E6KFTM2B2NMJK&chname=IndosiarC&chname=Indosiar"
     },
     {
-      "channel": "[4] TVONE",
+      "channel": "TVONE",
       "url": "http://chostv.mobie.in/files/iptv/tvone.m3u8"
     },
     {
-      "channel": "[5] TRANS 7",
+      "channel": "TRANS 7",
       "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
     },
     {
-      "channel": "[6] TRANS TV",
+      "channel": "TRANS TV",
       "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
     },
     {
-      "channel": "[7] MNCTV",
+      "channel": "MNCTV",
       "url":"https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8"
     },
     {
-      "channel": "[8] GTV",
+      "channel": "GTV",
       "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8"
     },
     {
-      "channel": "[9] ANTV",
+      "channel": "ANTV",
       "url": "http://210.210.155.35/qwr9ew/s/s07/02.m3u8"
     },
     {
-      "channel": "[10] NET TV",
+      "channel": "NET TV",
       "url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
     },
     {
-      "channel": "[11] KOMPAS TV",
+      "channel": "KOMPAS TV",
       "url":"http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8"
     }
 
