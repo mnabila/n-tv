@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 from os import system as s
 import json
-import requests
 
 player = "mpv"
 with open("n_list.json", 'r') as l:
